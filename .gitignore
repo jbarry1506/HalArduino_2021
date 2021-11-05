@@ -1,0 +1,5 @@
+.venv
+__Pycache__
+.venv/Include .venv/Lib .venv/Scripts .venv/pip-selfcheck.json .venv/pyvenv.cfg
+images
+videos
